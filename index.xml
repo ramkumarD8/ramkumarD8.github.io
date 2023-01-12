@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Ramkumar D, PhD Civil Engineering</title>
-    <link>uild/</link>
+    <link>/</link>
     <description>Recent content in About on Ramkumar D, PhD Civil Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="uild/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Expertise</title>
-      <link>uild/post/post-1/</link>
+      <link>/post/post-1/</link>
       <pubDate>Fri, 10 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>uild/post/post-1/</guid>
+      <guid>/post/post-1/</guid>
       <description>The hugo new theme command will scaffold the beginnings of a new theme for you to get you on your way.
 If you’re creating a theme with plans to share it on the Hugo Themes website please note the following: - If using inline styles you will need to use absolute URLs, for the linked assets to be served properly, e.g. &amp;lt;div style=&amp;quot;background: url(&#39;{{ &amp;quot;images/background.jpg&amp;quot; | absURL }}&#39;)&amp;quot;&amp;gt; - Make sure not to use a forward slash / in the beginning of a URL, because it will point to the host root.</description>
     </item>
     
     <item>
       <title>Title of the blog 1</title>
-      <link>uild/blogs/blog-1/</link>
+      <link>/blogs/blog-1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>uild/blogs/blog-1/</guid>
+      <guid>/blogs/blog-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Title of the post 3</title>
-      <link>uild/post/post-3/</link>
+      <link>/post/post-3/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>uild/post/post-3/</guid>
+      <guid>/post/post-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Title of the blog 2</title>
-      <link>uild/blogs/blog-2/</link>
+      <link>/blogs/blog-2/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>uild/blogs/blog-2/</guid>
+      <guid>/blogs/blog-2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Title of the post 2</title>
-      <link>uild/post/post-2/</link>
+      <link>/post/post-2/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>uild/post/post-2/</guid>
+      <guid>/post/post-2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Title of the post 4</title>
-      <link>uild/post/post-4/</link>
+      <link>/post/post-4/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>uild/post/post-4/</guid>
+      <guid>/post/post-4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>uild/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>uild/about/</guid>
+      <guid>/about/</guid>
       <description>About Me I, Ramkumar D, am a doctoral student at the Indian Institute of Technology Bombay in the Department of Civil Engineering. I work in deep learning modelling to simulate various Wastewater treatment systems technologies. My expertise is applying chaos theory and different hybrid techniques to deep learning modelling to improve the system&amp;rsquo;s performance. Currently, I am working simultaneously on two projects; one is modelling wastewater treatment systems (funded by the Government of Maharashtra, India) and another exciting study of decoding ancient knowledge of historic temples of India for its relation to temple water infrastructure using deep learning (funded by Indian knowledge systems).</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>uild/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>uild/contact/</guid>
+      <guid>/contact/</guid>
       <description> Email: 194046003@iitb.ac.in Phone: +91-9442066866 Mailing Address Room# 124 Department of Civil Engineering Indian Institute of Technology Bombay Mumbai, India - 400 076
 Social Linkedin Facebook Scholar Profile </description>
     </item>
